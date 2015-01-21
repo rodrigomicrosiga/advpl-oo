@@ -1,0 +1,5 @@
+-incpath=include
+-o./bin/advploo
+src/main.prg
+src/Pessoa.class.prg
+src/Homem.class.prg
